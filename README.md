@@ -5,7 +5,7 @@
 
 💭 **About Me**
 
-- 🏫 A college junior student
+- 🏫 A Sophomore Student
 - 🍕 Love Animes, DIY
 - 🌌 Dream to create an automata like 2B
 
