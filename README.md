@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2025 - To: 02 July 2025
+From: 03 June 2025 - To: 03 July 2025
 
-Total Time: 24 hrs 51 mins
+Total Time: 24 hrs 14 mins
 
-Python            6 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
-Markdown          5 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.95 %
-JavaScript        5 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
-Bash              2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-C++               1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Python            7 hrs 16 mins   ███████▒░░░░░░░░░░░░░░░░░   29.21 %
+Markdown          5 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
+Bash              3 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+JavaScript        2 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+C++               1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
 ```
 
 <!--END_SECTION:waka-->
