@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2025 - To: 16 July 2025
+From: 17 June 2025 - To: 17 July 2025
 
-Total Time: 45 hrs 59 mins
+Total Time: 48 hrs 59 mins
 
-Python             11 hrs 34 mins  ██████░░░░░░░░░░░░░░░░░░░   24.24 %
-C++                8 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
-Bash               5 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Markdown           5 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-SRecode Template   3 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Python             12 hrs 30 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
+C++                9 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+Bash               5 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Markdown           5 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+SRecode Template   3 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 ```
 
 <!--END_SECTION:waka-->
