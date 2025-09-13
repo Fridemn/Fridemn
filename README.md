@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2025 - To: 10 September 2025
+From: 12 August 2025 - To: 11 September 2025
 
-Total Time: 24 hrs 4 mins
+Total Time: 34 hrs 2 mins
 
-Markdown     8 hrs 31 mins   ████████▓░░░░░░░░░░░░░░░░   34.70 %
-Vue.js       4 hrs 55 mins   █████░░░░░░░░░░░░░░░░░░░░   20.04 %
-C++          3 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
-JavaScript   3 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-Python       1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Markdown     10 hrs 39 mins  ███████▓░░░░░░░░░░░░░░░░░   30.91 %
+Vue.js       8 hrs 24 mins   ██████░░░░░░░░░░░░░░░░░░░   24.39 %
+C++          4 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+JavaScript   3 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+Python       2 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
 ```
 
 <!--END_SECTION:waka-->
