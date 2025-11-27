@@ -5,7 +5,7 @@
 
 💭 **About Me**
 
-- 🏫 A Sophomore Student
+- 🏫 A Junior Student
 - 🍕 Love Animes, DIY
 - 🌌 Dream to create an automata like 2B
 
@@ -17,6 +17,9 @@
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
+![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=fff)
+![](https://img.shields.io/badge/-Gin-008FC7?style=flat-square&logo=gin&logoColor=fff)
+![](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=fff)
 
 😊 **Contact me**
 
@@ -26,7 +29,7 @@
 
 </p>
 <p align="center">
-<img src="https://profile-counter.glitch.me/{Fridemn}/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=Fridemn" />
 </p>
 
 💻 **Wakatime**
