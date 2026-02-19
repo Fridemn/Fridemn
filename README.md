@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2026 - To: 16 February 2026
+From: 18 January 2026 - To: 17 February 2026
 
-Total Time: 51 hrs
+Total Time: 49 hrs 17 mins
 
-Markdown          18 hrs 34 mins  █████████░░░░░░░░░░░░░░░░   35.58 %
-Dart              10 hrs 16 mins  █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-Go                6 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-TypeScript        5 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-Python            2 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Markdown          18 hrs 26 mins        █████████░░░░░░░░░░░░░░░░   36.53 %
+Dart              10 hrs 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+Go                6 hrs 24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+TypeScript        4 hrs 28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Python            2 hrs 12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
