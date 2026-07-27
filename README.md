@@ -3,9 +3,13 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Fridemn&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" />
 </a>
 
+<p align="center">
+  <img src="/github-metrics.svg" alt="Isometric contribution calendar" />
+</p>
+
 💭 **About Me**
 
-- 🏫 A Junior Student
+- 🏫 A Senior Student
 - 🍕 Love Animes, DIY
 - 🌌 Dream to create an automata like 2B
 
