@@ -1,19 +1,19 @@
 
-<a href="#">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Fridemn&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" />
-</a>
+<p align="left">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Fridemn&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" alt="Fridemn's GitHub stats" />
+</p>
 
-<p align="center">
+<p align="left">
   <img src="/github-metrics.svg" alt="Isometric contribution calendar" />
 </p>
 
-💭 **About Me**
+## About Me
 
-- 🏫 A Senior Student
-- 🍕 Love Animes, DIY
-- 🌌 Dream to create an automata like 2B
+- A senior student
+- Interested in anime and DIY projects
+- Dreaming of creating an automaton like 2B
 
-🍉 **Skills**
+## Skills
 
 [![wakatime](https://wakatime.com/badge/user/bca3f813-e799-44f3-a4d0-bac58d1014d9.svg)](https://wakatime.com/@bca3f813-e799-44f3-a4d0-bac58d1014d9)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
@@ -25,18 +25,17 @@
 ![](https://img.shields.io/badge/-Gin-008FC7?style=flat-square&logo=gin&logoColor=fff)
 ![](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=fff)
 
-😊 **Contact me**
+## Contact
 
-> 🚀 Open to accept any interesting coopration/internship invitation!
+> Open to interesting collaboration and internship opportunities.
 
--  ⌈ E-mail ⌋：`echo 'NzAyNjI1MzI1QHFxLmNvbQ==' | base64 -d`
+- Email: `echo 'NzAyNjI1MzI1QHFxLmNvbQ==' | base64 -d`
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Fridemn" alt="Profile views" />
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Fridemn" />
-</p>
 
-💻 **Wakatime**
+## WakaTime
 
 <!--START_SECTION:waka-->
 
