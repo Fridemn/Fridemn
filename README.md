@@ -1,7 +1,4 @@
 
-<p align="left">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Fridemn&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" alt="Fridemn's GitHub stats" />
-</p>
 
 <p align="left">
   <img src="/github-metrics.svg" alt="Isometric contribution calendar" />
