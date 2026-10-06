@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2026 - To: 03 October 2026
+From: 04 September 2026 - To: 04 October 2026
 
-Total Time: 156 hrs 25 mins
+Total Time: 154 hrs 28 mins
 
-Markdown          107 hrs 57 mins       █████████████████░░░░░░░░   68.30 %
-JSON              30 hrs 2 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
-TypeScript        11 hrs 4 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-Go                1 hr 48 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Bash              1 hr 42 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Markdown          107 hrs 36 mins       █████████████████▒░░░░░░░   68.98 %
+JSON              30 hrs                ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
+TypeScript        10 hrs 45 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Other             1 hr 32 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Bash              1 hr 29 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
